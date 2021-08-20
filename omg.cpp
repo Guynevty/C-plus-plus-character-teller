@@ -27,7 +27,7 @@ int main(){
    if(tekl != 0){
      cout << "There are "<< tekl<<" "<<f<< "s in your sentence.";
    }else{
-     cout << "Not enough "<<tekl<<" "<< f<<"s in your sentence";
+     cout << "Not enough "<<" "<< f<<"s in your sentence";
    }
   
 
